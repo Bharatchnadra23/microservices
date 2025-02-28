@@ -1,2 +1,2 @@
 microservices application
-micsfirst/java/com/gfg/employeaap
+micsfirst/src/main/java/com/gfg/employeaap
